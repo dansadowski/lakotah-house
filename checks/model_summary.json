@@ -1,0 +1,31 @@
+{
+  "gross_enclosed_m2": 325.4,
+  "gross_enclosed_sqft": 3502.576449597434,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "office": true,
+  "footprint_outer_dimensions_m": [
+    29,
+    14.2
+  ],
+  "units": "meters",
+  "concept_only": true,
+  "modeled_mesh_objects": 3298,
+  "stone_vertices": 44784,
+  "views": [
+    "01 Courtyard hero",
+    "02 Approach",
+    "03 Kitchen",
+    "04 Living",
+    "05 Dollhouse",
+    "06 Primary suite",
+    "07 Courtyard eye level"
+  ],
+  "excluded_from_area": [
+    "courtyard",
+    "terraces",
+    "roof overhangs",
+    "landscape"
+  ],
+  "site": "5725 Lakotah Ln, Placerville CA; oak woodland, downslope 3-acre listing. Terrain, tree positions, grading and placement are schematic; no survey supplied."
+}

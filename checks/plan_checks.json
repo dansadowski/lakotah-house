@@ -1,0 +1,151 @@
+{
+  "gross_enclosed_m2": 325.4,
+  "gross_enclosed_sqft": 3502.576449597434,
+  "area_basis": "Outside face of nominal exterior wall envelope. Courtyard, patios, landscape and roof overhangs excluded. Decorative stone relief excluded.",
+  "bedroom_count": 3,
+  "bathroom_count": 3,
+  "office_count": 1,
+  "room_zones_nonoverlapping": true,
+  "all_room_zones_inside_envelope": true,
+  "all_room_zones_reachable_from_entry": true,
+  "room_access_graph": {
+    "PRIMARY BEDROOM": [
+      "FAMILY GALLERY",
+      "PRIMARY BATH",
+      "WALK-IN CLOSET"
+    ],
+    "PRIMARY BATH": [
+      "PRIMARY BEDROOM"
+    ],
+    "WALK-IN CLOSET": [
+      "PRIMARY BEDROOM"
+    ],
+    "BEDROOM 2": [
+      "BATH 2 / ENSUITE",
+      "ENTRY GALLERY"
+    ],
+    "BATH 2 / ENSUITE": [
+      "BEDROOM 2"
+    ],
+    "BEDROOM 3": [
+      "ENTRY GALLERY"
+    ],
+    "OFFICE": [
+      "ENTRY GALLERY"
+    ],
+    "BATH 3": [
+      "ENTRY GALLERY"
+    ],
+    "PANTRY": [
+      "FAMILY GALLERY"
+    ],
+    "LAUNDRY": [
+      "FAMILY GALLERY"
+    ],
+    "ENTRY GALLERY": [
+      "BATH 3",
+      "BEDROOM 2",
+      "BEDROOM 3",
+      "LIVING",
+      "OFFICE"
+    ],
+    "LIVING": [
+      "DINING",
+      "ENTRY GALLERY"
+    ],
+    "DINING": [
+      "FAMILY GALLERY",
+      "KITCHEN",
+      "LIVING"
+    ],
+    "KITCHEN": [
+      "DINING",
+      "FAMILY GALLERY"
+    ],
+    "FAMILY GALLERY": [
+      "DINING",
+      "KITCHEN",
+      "LAUNDRY",
+      "PANTRY",
+      "PRIMARY BEDROOM"
+    ]
+  },
+  "rooms": [
+    {
+      "name": "PRIMARY BEDROOM",
+      "clear_zone_m2": 32.73749999999998,
+      "clear_zone_sqft": 352.3835172670435
+    },
+    {
+      "name": "PRIMARY BATH",
+      "clear_zone_m2": 11.549999999999997,
+      "clear_zone_sqft": 124.32316531300047
+    },
+    {
+      "name": "WALK-IN CLOSET",
+      "clear_zone_m2": 6.462500000000001,
+      "clear_zone_sqft": 69.56177106798839
+    },
+    {
+      "name": "BEDROOM 2",
+      "clear_zone_m2": 17.5375,
+      "clear_zone_sqft": 188.77207893305166
+    },
+    {
+      "name": "BATH 2 / ENSUITE",
+      "clear_zone_m2": 7.012499999999999,
+      "clear_zone_sqft": 75.48192179717887
+    },
+    {
+      "name": "BEDROOM 3",
+      "clear_zone_m2": 25.650000000000006,
+      "clear_zone_sqft": 276.0943021886116
+    },
+    {
+      "name": "OFFICE",
+      "clear_zone_m2": 19.320000000000007,
+      "clear_zone_sqft": 207.9587492508373
+    },
+    {
+      "name": "BATH 3",
+      "clear_zone_m2": 12.600000000000003,
+      "clear_zone_sqft": 135.62527125054604
+    },
+    {
+      "name": "PANTRY",
+      "clear_zone_m2": 7.809999999999999,
+      "clear_zone_sqft": 84.0661403545051
+    },
+    {
+      "name": "LAUNDRY",
+      "clear_zone_m2": 7.632499999999997,
+      "clear_zone_sqft": 82.15554625553905
+    },
+    {
+      "name": "ENTRY GALLERY",
+      "clear_zone_m2": 17.146250000000002,
+      "clear_zone_sqft": 184.56069898251388
+    },
+    {
+      "name": "LIVING",
+      "clear_zone_m2": 34.34625,
+      "clear_zone_sqft": 369.69995814992586
+    },
+    {
+      "name": "DINING",
+      "clear_zone_m2": 11.600000000000001,
+      "clear_zone_sqft": 124.86136083383603
+    },
+    {
+      "name": "KITCHEN",
+      "clear_zone_m2": 35.145,
+      "clear_zone_sqft": 378.297631595273
+    },
+    {
+      "name": "FAMILY GALLERY",
+      "clear_zone_m2": 29.820000000000004,
+      "clear_zone_sqft": 320.97980862629225
+    }
+  ],
+  "status": "Concept geometry only; circulation graph is not a building-code or accessibility review."
+}

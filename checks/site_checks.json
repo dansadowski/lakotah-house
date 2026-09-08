@@ -1,0 +1,20 @@
+{
+  "address": "5725 Lakotah Lane, Placerville, CA 95667",
+  "apn": "006-480-028-000",
+  "illustrative_parcel_area_m2": 12140.568999999996,
+  "footprint_inside_illustrative_outline": true,
+  "survey_verified": false,
+  "assumptions": [
+    "North is interpreted from the listing aerial; verify against a survey.",
+    "House location, 135-degree rotation and northeast-facing courtyard are proposed.",
+    "Local +Y is treated as uphill. No slope bearing, contour or elevation survey was supplied.",
+    "Approach from the Lakotah Lane side is indicative; route, easements and grades are unverified.",
+    "Trees in the model indicate woodland character, not an existing-tree inventory.",
+    "No utility layout, driveway engineering, setbacks or construction feasibility are established."
+  ],
+  "sources": [
+    "https://www.zillow.com/homedetails/5725-Lakotah-Ln-Placerville-CA-95667/195361834_zpid/",
+    "https://www.metrolistpro.com/homes/2/6/5725-LAKOTAH-LANE-PLACERVILLE-CA-95667/226056226",
+    "https://photos.zillowstatic.com/fp/bfbafa200d5d39fbcba719e11042d7dd-cc_ft_576.jpg"
+  ]
+}

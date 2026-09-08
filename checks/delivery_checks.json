@@ -1,0 +1,56 @@
+{
+  "render_files": {
+    "01_Courtyard_hero": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 3854168
+    },
+    "02_Approach": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 3891228
+    },
+    "03_Kitchen": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 2736796
+    },
+    "04_Living": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 2834574
+    },
+    "05_Dollhouse": {
+      "dimensions": [
+        2100,
+        1450
+      ],
+      "bytes": 4925688
+    },
+    "06_Primary_suite": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 2462536
+    },
+    "07_Courtyard_eye_level": {
+      "dimensions": [
+        1800,
+        1125
+      ],
+      "bytes": 3269647
+    }
+  },
+  "freecad_archives_readable": true,
+  "visual_review": "Seven camera views plus floor plan and site study inspected. Interior exposure adjusted for visibility.",
+  "scope": "Architectural concept, not construction documentation."
+}

@@ -1,0 +1,36 @@
+{
+  "LAKOTAH_HOUSE": {
+    "readback_success": true,
+    "world_bounds_m": [
+      [
+        -8.0,
+        -4.349999904632568,
+        -2.3000001907348633
+      ],
+      [
+        30.237701416015625,
+        16.075000762939453,
+        4.287766933441162
+      ]
+    ],
+    "native_bounds_max_difference_m": 0.0,
+    "mesh_objects": 1168
+  },
+  "LAKOTAH_cutaway": {
+    "readback_success": true,
+    "world_bounds_m": [
+      [
+        -8.0,
+        -4.349999904632568,
+        -2.3000001907348633
+      ],
+      [
+        30.237701416015625,
+        15.060470581054688,
+        4.042699813842773
+      ]
+    ],
+    "native_bounds_max_difference_m": 4.76837158203125e-07,
+    "mesh_objects": 1013
+  }
+}
